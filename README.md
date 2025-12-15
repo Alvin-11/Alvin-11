@@ -140,31 +140,6 @@ const developer = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🐾 Animal Adoption Platform</h3>
-      <p align="center">
-        <a href="https://github.com/Alvin-11/Animal_Adoption" target="_blank">
-          <!-- Replace with a screenshot of the app UI -->
-          <img src="photos/PetAdoption.png" alt="Animal Adoption Screenshot" />
-        </a>
-      </p>
-      <p>
-        <strong>Stack:</strong> JavaScript · HTML · CSS  
-        • Frontend web app to explore adoptable animals  
-        • Focus on <strong>clean UI</strong>, simple navigation, and user experience  
-        • Demonstrates core <strong>JavaScript</strong> and DOM manipulation skills
-      </p>
-      <p align="center">
-        <a href="https://github.com/Alvin-11/Animal_Adoption" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
       <h3 align="center"> Peerpal</h3>
       <p align="center">
         <!-- Replace with screenshot / architecture diagram if you have one -->
@@ -180,6 +155,31 @@ const developer = {
       <p align="center">
         <!-- When you have a dedicated repo, link it here -->
         <a href="https://github.com/POLO-SOEN341/POLO-SOEN341_Project_F24.git" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+     <td width="50%">
+      <h3 align="center">🐾 Animal Adoption Platform</h3>
+      <p align="center">
+        <a href="https://github.com/Alvin-11/Animal_Adoption" target="_blank">
+          <!-- Replace with a screenshot of the app UI -->
+          <img src="photos/PetAdoption.png" alt="Animal Adoption Screenshot" />
+        </a>
+      </p>
+      <p>
+        <strong>Stack:</strong> JavaScript · HTML · CSS  
+        • Frontend web app to explore adoptable animals  
+        • Focus on <strong>clean UI</strong>, simple navigation, and user experience  
+        • Demonstrates core <strong>JavaScript</strong> and DOM manipulation skills
+      </p>
+      <p align="center">
+        <a href="https://github.com/Alvin-11/Animal_Adoption" target="_blank">
           <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
