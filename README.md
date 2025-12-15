@@ -152,13 +152,3 @@ Command-line tool for automating developer workflows and boosting productivity.
 </div>
 
 
-## 💡 Skills Breakdown
-
-```text
-TypeScript   ████████████████████░░   95%
-React        ███████████████████░░░   90%
-Node.js      ██████████████████░░░░   85%
-Python       ████████████████░░░░░░   80%
-AWS          ███████████████░░░░░░░   75%
-Docker       ██████████████░░░░░░░░   70%
-Kubernetes   ████████████░░░░░░░░░░   65%
