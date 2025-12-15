@@ -4,16 +4,11 @@
   Visit My Portfolio
 </a>
     <!-- Replace this with your own banner image if you want -->
-    <img src="photos/software-development-banner.jpg?size=28&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
+    <img src="photos/software-development-banner.jpg?size=14&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-
-<!-- AVATAR / PROFILE IMAGE (OPTIONAL) -->
-<!-- Replace the src below with your real avatar / banner if you want -->
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Alvin Biju Avatar" />
-
 <br /><br />
 
 ### 👋 Hey, I'm <strong>Alvin Biju</strong>
