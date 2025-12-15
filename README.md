@@ -180,7 +180,7 @@ const developer = {
       <p align="center">
         <!-- When you have a dedicated repo, link it here -->
         <a href="https://github.com/POLO-SOEN341/POLO-SOEN341_Project_F24.git" target="_blank">
-          <img src="https://img.shields.io/badge/More_Projects-On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
