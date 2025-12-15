@@ -176,7 +176,6 @@ const developer = {
          • Built with <strong>React</strong> and <strong>Tailwind CSS</strong> for the frontend  
          • <strong>Next.js</strong> served as the backend framework  
          • <strong>Google Firebase</strong> used for database management
-
       </p>
       <p align="center">
         <!-- When you have a dedicated repo, link it here -->
@@ -237,6 +236,6 @@ const developer = {
 
 <br/>
 
-<strong>If you’re looking for a motivated full‑stack intern who works with React, Next.js, and Spring Boot, I’d love to chat!</strong> 🚀
+<strong>If you’re looking for a motivated software engineering intern, I’d love to chat!</strong> 🚀
 
 </div>
