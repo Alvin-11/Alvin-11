@@ -32,25 +32,34 @@
 ## ⚡ At a Glance
 
 - 🎓 Software Engineering **student** 
-- 💻 Building projects with **React.js**, **Next.js**, **Java**, **Spring Boot**, and other programming languages
+- 💻 Building projects with **React.js**, **Next.js**, **Java**, **Spring Boot**, and other programming languages/frameworks
 - 🌐 Portfolio: [`alvin-biju-porfolio.vercel.app`](https://alvin-biju-porfolio.vercel.app/)
 - 🧠 Comfortable with **OOP**, **RESTful APIs**, **MVVM / layered architectures**, and **CI/CD pipelines**
-- 🌍 Fluent in **English** and **French** (spoken & written & reading)
+- 🌍 Fluent in **English** and **French** (speaking, writing & reading)
 
 
 ## 🚀 About Me (Fun View)
 
-const developer = {
-  name: "Alvin Biju",
-  role: "Software Engineering Student & Full-Stack Developer",
-  workingOn: "Projects that strengthen my full-stack and architecture skills",
-  learning: ["Typescript", "Advanced React", "powershell","Django"],
-  interests: ["Clean architecture", "Backend development", "Databasem maintenance"],
-  funFact: "Turning ideas into interactive experiences is my favorite part of coding."
-};I love taking ideas from **concept → design → implementation**, working across the stack:  
-- On the **frontend**, I care about smooth interactions, accessibility, and clean UI.  
-- On the **backend**, I focus on **clean architecture**, **readable code**, and **reliable APIs**.
+Hi! I'm **Alvin Biju**, a Software Engineering Student & Full-Stack Developer.  
+I love taking ideas from **concept → design → implementation** and working across the stack.
 
+**Currently working on:**  
+- Projects that strengthen my full-stack and architecture skills  
+
+**Currently Learning:**  
+- Typescript, Advanced React, PowerShell, Django  
+
+**Interests:**  
+- Clean architecture, Backend development, Database maintenance, expanding my knowledge into different fields of software engineering
+
+**Frontend focus:**  
+- Smooth interactions, accessibility, and clean UI  
+
+**Backend focus:**  
+- Clean architecture, readable code, and reliable APIs  
+
+**Fun fact:**  
+- Turning ideas into interactive experiences is my favorite part of coding! 🎉
 ---
 
 ## 🧠 Tech Stack – Visual Overview
@@ -120,8 +129,6 @@ const developer = {
 ---
 
 ## 🎯 Featured Projects (Visual Cards)
-
-> These are based on your portfolio and GitHub. Replace screenshots with real image URLs from your projects (e.g. hosted on your portfolio or an `assets/` folder in another repo).
 
 <table>
   <tr>
