@@ -71,8 +71,16 @@ const developer = {
 
 ### ⚙️ Frameworks & Libraries
 
-- **Web & UI**: React.js, Next.js, Bootstrap, WPF, Blazor  
-- **Backend**: Spring Boot, ASP.NET Core, Node.js, Express.js
+
+<p align="center">
+  <!-- Web & UI -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,wpf,blazor" title="React, Next.js, Bootstrap, WPF, Blazor" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" title="Spring Boot, ASP.NET Core, Node.js, Express.js" />
+</p>
 
 ### 🗄️ Databases
 
