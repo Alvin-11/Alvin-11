@@ -80,7 +80,7 @@ const developer = {
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase,sql,sqlite" />
 </p>
 
 - SQL · Google Firebase · SQLite
