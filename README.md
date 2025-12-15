@@ -144,7 +144,7 @@ const developer = {
       <p align="center">
         <a href="https://github.com/Alvin-11/Animal_Adoption" target="_blank">
           <!-- Replace with a screenshot of the app UI -->
-          <img src="https://via.placeholder.com/400x230.png?text=Animal+Adoption+Preview" alt="Animal Adoption Screenshot" />
+          <img src="photos/PetAdoption.png" alt="Animal Adoption Screenshot" />
         </a>
       </p>
       <p>
@@ -168,7 +168,7 @@ const developer = {
       <h3 align="center"> Peerpal</h3>
       <p align="center">
         <!-- Replace with screenshot / architecture diagram if you have one -->
-        <img src="https://via.placeholder.com/400x230.png?text=Spring+Boot+%2B+React+API" alt="Full Stack API" />
+        <img src="photos/Peer_Assessment_Website.png" alt="Full Stack API" />
       </p>
       <p>
         <strong>Stack:</strong> Next.js · Google Firebase · Tailwind CSS · REST APIs
