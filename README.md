@@ -1,8 +1,10 @@
 <!-- TOP BANNER / TYPING EFFECT -->
 <p align="center">
-  <a href="https://alvin-biju-porfolio.vercel.app/">
+  <a href="https://alvin-biju-porfolio.vercel.app/" target="_blank">
+  Visit My Portfolio
+</a>
     <!-- Replace this with your own banner image if you want -->
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
+    <img src="photos/software-development-banner.jpg?size=28&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +21,7 @@
 **Software Engineering Student · Full‑Stack Developer **  
 *Building modern full‑stack apps and crafting clean, maintainable solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvin-biju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvin-biju) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alvin-biju-porfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvin--11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvin-11)
 
@@ -83,7 +85,7 @@ I love taking ideas from **concept → design → implementation** and working a
 
 <p align="center">
   <!-- Web & UI -->
- Web & UI <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,wpf,blazor" title="React, Next.js, Bootstrap, WPF, Blazor" />
+  Web & UI : <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,wpf,blazor" title="React, Next.js, Bootstrap, WPF, Blazor" />
 </p>
 
 <p align="center">
