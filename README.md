@@ -17,7 +17,7 @@
 ### 👋 Hey, I'm <strong>Alvin Biju</strong>
 
 **Software Engineering Student · Full‑Stack Developer **  
-*Building modern full‑stack web apps and crafting clean, maintainable solutions.*
+*Building modern full‑stack apps and crafting clean, maintainable solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvin-biju)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alvin-biju-porfolio.vercel.app/)
@@ -118,24 +118,23 @@ const developer = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio Website</h3>
+      <h3 align="center">🌐 ConURides (Bike Sharing System)</h3>
       <p align="center">
-        <a href="https://alvin-biju-porfolio.vercel.app/" target="_blank">
+        <a href="https://github.com/HugoMoslener/SOEN343" target="_blank">
           <!-- Replace with real screenshot of your portfolio -->
           <img src="https://via.placeholder.com/400x230.png?text=Portfolio+Preview" alt="Portfolio Screenshot" />
         </a>
       </p>
       <p>
-        <strong>Stack:</strong> Next.js · React.js · TypeScript · Tailwind CSS · Framer Motion  
-        • Fully responsive portfolio showcasing my <strong>skills, projects, education, and work experience</strong>  
-        • Animated transitions and a fluid background for a modern, polished feel  
-        • Integrated <strong>contact form</strong> (EmailJS‑ready) and <strong>CV download</strong> button
+        <strong>Stack:</strong>  · React.js · Spring Boot · Tailwind CSS · Maven · Leaflet.js · Google Firebase
+        • Built a <strong>Bike Sharing System</strong> that allows users to reserve and undock bikes  
+        • Developed using <strong>React.js</strong> for the frontend and <strong>Spring Boot</strong> for the backend  
+        • Implemented <strong>Leaflet.js</strong> for an interactive map interface  
+        • Wrote <strong>JUnit</strong> tests to ensure application reliability  
+        • Managed project dependencies using <strong>Maven</strong>
       </p>
       <p align="center">
-        <a href="https://alvin-biju-porfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/Alvin-11/personal_porfolio" target="_blank">
+        <a href="https://github.com/HugoMoslener/SOEN343" target="_blank">
           <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -166,20 +165,22 @@ const developer = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 Full‑Stack API Example</h3>
+      <h3 align="center"> Peerpal</h3>
       <p align="center">
         <!-- Replace with screenshot / architecture diagram if you have one -->
         <img src="https://via.placeholder.com/400x230.png?text=Spring+Boot+%2B+React+API" alt="Full Stack API" />
       </p>
       <p>
-        <strong>Stack:</strong> Spring Boot · Java · React · REST  
-        • Example of a <strong>RESTful API</strong> in Spring Boot consumed by a React frontend  
-        • Emphasizes <strong>layered architecture</strong>, DTOs, and clean structure  
-        • Great showcase of my full‑stack reasoning and backend fundamentals
+        <strong>Stack:</strong> Next.js · Google Firebase · Tailwind CSS · REST APIs
+         • Developed a <strong>peer assessment tool</strong> for collaborative learning environments  
+         • Built with <strong>React</strong> and <strong>Tailwind CSS</strong> for the frontend  
+         • <strong>Next.js</strong> served as the backend framework  
+         • <strong>Google Firebase</strong> used for database management
+
       </p>
       <p align="center">
         <!-- When you have a dedicated repo, link it here -->
-        <a href="https://github.com/Alvin-11" target="_blank">
+        <a href="https://github.com/POLO-SOEN341/POLO-SOEN341_Project_F24.git" target="_blank">
           <img src="https://img.shields.io/badge/More_Projects-On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
