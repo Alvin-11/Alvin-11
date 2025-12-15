@@ -74,12 +74,12 @@ const developer = {
 
 <p align="center">
   <!-- Web & UI -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,wpf,blazor" title="React, Next.js, Bootstrap, WPF, Blazor" />
+ Web & UI <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,wpf,blazor" title="React, Next.js, Bootstrap, WPF, Blazor" />
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" title="Spring Boot, ASP.NET Core, Node.js, Express.js" />
+ Backend : <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" title="Spring Boot, ASP.NET Core, Node.js, Express.js" />
 </p>
 
 ### 🗄️ Databases
