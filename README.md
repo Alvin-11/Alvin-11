@@ -16,7 +16,7 @@
 
 ### 👋 Hey, I'm <strong>Alvin Biju</strong>
 
-**Software Engineering Student · Full‑Stack Developer (React.js · Next.js · Spring Boot)**  
+**Software Engineering Student · Full‑Stack Developer **  
 *Building modern full‑stack web apps and crafting clean, maintainable solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
