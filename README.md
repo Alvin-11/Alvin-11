@@ -122,7 +122,7 @@ const developer = {
       <p align="center">
         <a href="https://github.com/HugoMoslener/SOEN343" target="_blank">
           <!-- Replace with real screenshot of your portfolio -->
-          <img src="https://via.placeholder.com/400x230.png?text=Portfolio+Preview" alt="Portfolio Screenshot" />
+          <img src="photos/BikeSharingSystem.png" alt="Portfolio Screenshot" />
         </a>
       </p>
       <p>
