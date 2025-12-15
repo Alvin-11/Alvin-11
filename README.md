@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://alvin-biju-porfolio.vercel.app/">
     <!-- Replace this with your own banner image if you want -->
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+(React+%2B+Next+%2B+Spring+Boot);Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,12 +19,11 @@
 **Software Engineering Student · Full‑Stack Developer **  
 *Building modern full‑stack web apps and crafting clean, maintainable solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvin-biju)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alvin-biju-porfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvin--11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvin-11)
-[![Email](https://img.shields.io/badge/Email-Contact_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-🔍 <strong>Actively looking for software engineering / full‑stack internships.</strong>
+🔍 <strong>Actively looking for software engineering internships.</strong>
 
 </div>
 
@@ -32,23 +31,21 @@
 
 ## ⚡ At a Glance
 
-- 🎓 Software Engineering **student** with a passion for **full‑stack web development**
-- 💻 Building projects with **React.js**, **Next.js**, **Java**, and **Spring Boot**
-- 🌐 Creator of my portfolio: [`alvin-biju-porfolio.vercel.app`](https://alvin-biju-porfolio.vercel.app/)
-- 🧠 Comfortable with **OOP**, **RESTful APIs**, **MVVM / layered architectures**, and **CI/CD**
-- 🌍 Fluent in **English** and **French** (spoken & written)
+- 🎓 Software Engineering **student** 
+- 💻 Building projects with **React.js**, **Next.js**, **Java**, **Spring Boot**, and other programming languages
+- 🌐 Portfolio: [`alvin-biju-porfolio.vercel.app`](https://alvin-biju-porfolio.vercel.app/)
+- 🧠 Comfortable with **OOP**, **RESTful APIs**, **MVVM / layered architectures**, and **CI/CD pipelines**
+- 🌍 Fluent in **English** and **French** (spoken & written & reading)
 
----
 
 ## 🚀 About Me (Fun View)
 
 const developer = {
   name: "Alvin Biju",
   role: "Software Engineering Student & Full-Stack Developer",
-  focus: "React, Next.js & Spring Boot",
   workingOn: "Projects that strengthen my full-stack and architecture skills",
-  learning: ["Cloud-native Java", "Advanced React", "System design basics"],
-  interests: ["Clean architecture", "Developer tooling", "UI/UX", "Open Source"],
+  learning: ["Typescript", "Advanced React", "powershell","Django"],
+  interests: ["Clean architecture", "Backend development", "Databasem maintenance"],
   funFact: "Turning ideas into interactive experiences is my favorite part of coding."
 };I love taking ideas from **concept → design → implementation**, working across the stack:  
 - On the **frontend**, I care about smooth interactions, accessibility, and clean UI.  
@@ -68,7 +65,7 @@ const developer = {
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,cpp,c,js,ts,html,css" /><br />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,cpp,c,js,ts,html,css,clojure,erlang" /><br />
   <sub>Also explored: Clojure, Erlang</sub>
 </p>
 
@@ -80,10 +77,10 @@ const developer = {
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,sql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
 </p>
 
-- SQL · Google Firebase · SQLite
+- SQL
 
 ### 🔧 Tools & Platforms
 
@@ -233,10 +230,9 @@ const developer = {
 
 <div align="center">
 
-💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">linkedin.com/in/your-linkedin-handle</a>  
+💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">linkedin.com/in/alvin-biju</a>  
 🌐 <strong>Portfolio:</strong> <a href="https://alvin-biju-porfolio.vercel.app/" target="_blank">alvin-biju-porfolio.vercel.app</a>  
 💻 <strong>GitHub:</strong> <a href="https://github.com/Alvin-11" target="_blank">github.com/Alvin-11</a>  
-📧 <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
 
 <br/>
 
