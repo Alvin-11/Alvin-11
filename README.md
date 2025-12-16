@@ -106,7 +106,7 @@ I love taking ideas from **concept → design → implementation** and working a
 
 ## 📚 Methodologies & Concepts
 
-<details>
+<div>
   <summary><strong>Click to expand my methodologies & software engineering toolbox</strong> 🧰</summary>
   <br />
 
@@ -119,7 +119,7 @@ I love taking ideas from **concept → design → implementation** and working a
   - CI/CD Pipelines  
   - Clean code & separation of concerns  
 
-</details>
+</div>
 
 ---
 
