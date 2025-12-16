@@ -1,10 +1,8 @@
 <!-- TOP BANNER / TYPING EFFECT -->
 <p align="center">
   <a href="https://alvin-biju-porfolio.vercel.app/" target="_blank">
-  Visit My Portfolio
-</a>
     <!-- Replace this with your own banner image if you want -->
-    <img src="photos/software-development-banner.jpg?size=14&duration=3500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
+    <img src="photos/software-development-banner.jpg?size=10&duration=3500&color=38BDF8&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Alvin+Biju+👋;Software+Engineering+Student;Full-Stack+Developer+; Looking+for+Software+Engineering+Internships" alt="Typing SVG" />
   </a>
 </p>
 
