@@ -107,7 +107,6 @@ I love taking ideas from **concept → design → implementation** and working a
 ## 📚 Methodologies & Concepts
 
 <div>
-  <summary><strong>Click to expand my methodologies & software engineering toolbox</strong> 🧰</summary>
   <br />
 
   - Agile & Scrum  
